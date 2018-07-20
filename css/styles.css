@@ -268,31 +268,31 @@ header .social-links-container {
 	margin-bottom: 1.5rem;
 }
 
-header .social-links-container .fa-stack {
+header .container .fa-stack {
 	margin-right: 0;
 }
 
-header .social-links-container .fa-stack.fa-lg {
+header .container .fa-stack.fa-lg {
 	font-size: 1.5rem;
 }
 
-header .social-links-container .fa-stack a .fa-stack-1x {
+header .container .fa-stack a .fa-stack-1x {
 	color: #b62474;
 	opacity: 0.8;
 	transition: opacity .3s ease;
 }
 
-header .social-links-container .fa-stack a .fa-stack-2x {
+header .container .fa-stack a .fa-stack-2x {
 	color: #fff;
 	opacity: 0.8;
 	transition: opacity .3s ease;
 }
 
-header .social-links-container .fa-stack a:hover .fa-stack-1x {
+header .container .fa-stack a:hover .fa-stack-1x {
 	opacity: 1;
 }
 
-header .social-links-container .fa-stack a:hover .fa-stack-2x {
+header .container .fa-stack a:hover .fa-stack-2x {
     opacity: 1;
 }
 /* end of social links */
